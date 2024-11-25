@@ -1,0 +1,5 @@
+Telescopio_Comun 7 29.5
+Telescopio_Grande 15 36.0
+Telescopio_Electronico 25 45.9
+Telescopio_Refractor 40 80
+Telescopio_Catadioptrico 80 200
